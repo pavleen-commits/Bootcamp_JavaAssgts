@@ -1,5 +1,5 @@
 
-#Java Assignment-2 questions: (Solutions in ~/java2 package.)
+# Java Assignment-2 questions: (Solutions in ~/java2 package.)
 <ul>
 <li>1. Create Java classes having suitable attributes for Library management system.Use OOPs concepts in your design.Also try to use interfaces and abstract classes.</li>
 <li>2. WAP to sorting string without using string Methods?.</li>
@@ -100,7 +100,7 @@
 Q13. Create a custom exception that do not have any stack trace.</li>
 </ul>
 
-#Java Assignment-3(collections & date) questions: (Solutions in ~/java_collections package.)
+# Java Assignment-3(collections & date) questions: (Solutions in ~/java_collections package.)
 <ol>
 <li>Write Java code to define List . Insert 5 floating point numbers in List, and using an iterator, find the sum of the numbers in List.</li>
 <li>Write a method that takes a string and returns the number of unique characters in the string.</li>
