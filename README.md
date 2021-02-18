@@ -1,5 +1,5 @@
 
-##Java Assignment-2 questions.
+#Java Assignment-2 questions: (Solutions in ~/java2 package.)
 <ul>
 <li>1. Create Java classes having suitable attributes for Library management system.Use OOPs concepts in your design.Also try to use interfaces and abstract classes.</li>
 <li>2. WAP to sorting string without using string Methods?.</li>
@@ -98,3 +98,17 @@
 </li>
 <li>
 Q13. Create a custom exception that do not have any stack trace.</li>
+</ul>
+
+#Java Assignment-3(collections & date) questions: (Solutions in ~/java_collections package.)
+<ol>
+<li>Write Java code to define List . Insert 5 floating point numbers in List, and using an iterator, find the sum of the numbers in List.</li>
+<li>Write a method that takes a string and returns the number of unique characters in the string.</li>
+<li>Write a method that takes a string and print the number of occurrence of each character characters in the string.</li>
+<li>Write a program to sort Employee objects based on highest salary using Comparator. Employee class{ Double Age; Double Salary; String Name} </li>
+<li>Write a program to sort the Student objects based on Score , if the score are same then sort on First Name . Class Student{ String Name; Double Score; Double Age} </li>
+<li>Print the elements of an array in the decreasing frequency if 2 numbers have same frequency then print the one which came first.</li>
+<li>Design a Data Structure SpecialStack that supports all the stack operations like push(), pop(), isEmpty(), isFull() and an additional operation getMin() which should return minimum element from the SpecialStack. (Expected complexity ­ O(1))</li>
+<li>Write a program to format date as example "21-March-2016"</li>
+<li>Write a program to display times in different country format.</li>
+</ol>
