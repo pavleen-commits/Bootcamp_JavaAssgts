@@ -112,3 +112,39 @@ Q13. Create a custom exception that do not have any stack trace.</li>
 <li>Write a program to format date as example "21-March-2016"</li>
 <li>Write a program to display times in different country format.</li>
 </ol>
+
+# Java Assignment-4 (JAVA8 Features) questions: (Solutions in ~/java8_features package)
+<ol>
+  <li> Write the following a functional interface and implement it using lambda: </li>
+<ol><li>First number is greater than second number or not : Parameter (int ,int ) Return boolean</li>
+    <li>Increment the number by 1 and return incremented value : Parameter (int) Return int</li>
+   <li>Concatination of 2 string Parameter (String , String ) : Return (String)</li>
+  <li>Convert a string to uppercase and return : Parameter (String) Return (String)</li></ol>
+  <li>Create a functional interface whose method takes 2 integers and return one integer.</li>
+
+<li>Using (instance) Method reference create and apply add and subtract method and using (Static) Method reference create and apply multiplication method for the functional interface created.</li>
+
+<li>Create an Employee Class with instance variables (String) name, (Integer)age, (String)city and get the instance of the Class using constructor reference  
+Implement following functional interfaces from java.util.function using lambdas:</li>
+
+(1) Consumer
+
+(2) Supplier
+
+(3) Predicate
+
+(4) Function
+
+<li>Create and access default and static method of an interface.</li>
+
+ <li>Override the default method of the interface.</li>
+
+<li> Implement multiple inheritance with default method inside  interface.</li>
+
+<li>Collect all the even numbers from an integer list.</li>
+
+<li>Sum all the numbers greater than 5 in the integer list.</li>
+
+<li>Find average of the number inside integer list after doubling it.</li>
+
+<li>Find the first even number in the integer list which is greater than 3.</li>
