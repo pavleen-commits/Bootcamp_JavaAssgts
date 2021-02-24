@@ -148,3 +148,24 @@ Implement following functional interfaces from java.util.function using lambdas:
 <li>Find average of the number inside integer list after doubling it.</li>
 
 <li>Find the first even number in the integer list which is greater than 3.</li>
+</ol>
+
+# Java Assignment-5 (Multi threading concepts) questions : (Solutions in ~/java_multithreading package)
+<ol>
+  <li> Create and Run a Thread using Runnable Interface and Thread class.</li>
+  <li>Use sleep and join methods with thread.</li>
+  <li>Use a singleThreadExecutor to submit multiple threads.</li>
+  <li>Try shutdown() and shutdownNow() and observe the difference.</li>
+  <li>Use isShutDown() and isTerminated() with ExecutorService.</li>
+<li>Return a Future from ExecutorService by using callable and use get(), isDone(), isCancelled() with the Future object to know the status of task submitted.</li>
+  <li>Submit List of tasks to ExecutorService and wait for the completion of all the tasks.</li>
+  <li>Schedule task using schedule(), scheduleAtFixedRate() and scheduleAtFixedDelay()</li>
+<li>Increase concurrency with Thread pools using newCachedThreadPool() and newFixedThreadPool().</li>
+<li>Use Synchronize method to enable synchronization between multiple threads trying to access method at same time.</li>
+<li>Use Synchronize block to enable synchronization between multiple threads trying to access method at same time.</li>
+  <li>Use Atomic Classes instead of Synchronize method and blocks.</li>
+  <li>Coordinate 2 threads using wait() and notify().</li>
+  <li>Coordinate mulitple threads using wait() and notifyAll()</li>
+  <li>Use Reentrant lock for coordinating 2 threads with signal(), signalAll() and wait().</li>
+  <li>Create a deadlock and Resolve it using tryLock().</li>
+  </ol>
