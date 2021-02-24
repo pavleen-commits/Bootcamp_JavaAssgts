@@ -6,7 +6,7 @@ package java8_features;
 
 public class Instance_Static_3 {
 
-        void add (Integer a, Integer b ){
+         void add (Integer a, Integer b ){
            System.out.println(a+b);
         }
 
